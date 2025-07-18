@@ -30,7 +30,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgcastrooo&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
-### 🐍 Snake comendo minhas contribuições
+### 🐍 
 
 <p align="center">
   <img height="120" src="https://raw.githubusercontent.com/dgcastrooo/dgcastrooo/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
