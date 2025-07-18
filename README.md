@@ -18,9 +18,14 @@
 ### 📊 Minhas estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dgcastrooo&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgcastrooo&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgcastrooo&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgcastrooo&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
+### 🐍 Snake comendo minhas contribuições
+
+<p align="center">
+  <img height="120" src="https://raw.githubusercontent.com/dgcastrooo/dgcastrooo/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -47,8 +52,4 @@
   <a href="mailto:diogocastro050402@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dgcastrooo/dgcastrooo/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
