@@ -19,7 +19,7 @@
 
 - Desenvolvimento de uma Pipeline de coleta e processamento de dados do Twitter (X) usando Python e Airflow.
 - Armazenei os dados no Amazon S3 e carreguei os dados no Snowflake para análises em SQL.
-- 🔗 [link](https://github.com/dgcastrooo/projeto-airflow-aws)
+- 🔗 [link](https://github.com/dgcastrooo/twitter-data-papeline)
 ---
   
 
