@@ -12,13 +12,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate snake animation
-  uses: Platane/snk@v3
-  with:
-    github_user_name: dgcastrooo
-    outputs: |
-      dist/github-contribution-grid-snake-dark.svg
-    theme: dark
+      - name: Generate snake animation (dark mode)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: dgcastrooo
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg
+          theme: dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
